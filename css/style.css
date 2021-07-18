@@ -1,0 +1,182 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+}
+
+.header {
+    border-bottom: 1px solid #F0F0F0;
+}
+
+header {
+    width: 90%;
+    margin-left: 5%;
+    overflow: hidden;
+    padding: 20px 0;
+}
+
+.logo {
+    width: 20%;
+    float: left;
+}
+
+.logo img {
+    width: 35%;
+}
+
+nav {
+    width: 40%;
+    float: right;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    float: left;
+    margin-left: 30px;
+    font-size: 20px;
+    text-transform: capitalize;
+    color: #575C68;
+}
+
+.content {
+    width: 60%;
+    flaot: left;
+    float: left;
+    margin-left: 20%;
+    text-align: center;
+    overflow: hidden;
+}
+
+.content h1 {
+    font-size: 50px;
+    text-transform: capitalize;
+    color: #;
+    margin-top: 30px;
+    color: #102652;
+}
+
+.content h2 {
+    font-size: 50px;
+    text-transform: capitalize;
+    color: #038BFF;
+    margin: 20px 0;
+}
+
+.content p {
+    font-size: 18px;
+    color: #636c75;
+    margin: 20px 0;
+}
+
+.content img {}
+
+.content-two {
+    width: 70%;
+    padding-top: 100px;
+    margin: auto;
+    overflow: hidden;
+    margin-bottom: 100px;
+}
+
+.left-content-two {
+    float: left;
+    width: 48%;
+    text-align: right;
+}
+
+.left-content-two h1 {
+    font-size: 55px;
+    color: #EC5868;
+}
+
+.left-content-two p {
+    font-size: 18px;
+    color: #496367;
+}
+
+.right-content-two {
+    float: right;
+    width: 48%;
+    text-align: left;
+}
+
+.right-content-two h1 {
+    font-size: 55px;
+    color: #132659;
+}
+
+.feature {
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.feature-one {
+    width: 26%;
+    float: left;
+    background-color: #FDEBED;
+    padding: 50px 30px;
+}
+
+.feature-one img,
+.feature-two img,
+.feature-three img {
+    width: 100%;
+}
+
+.feature-one h2,
+.feature-two h2,
+.feature-three h2 {
+    text-align: left;
+    color: #112262;
+    margin: 15px 0;
+}
+
+.feature-one p,
+.feature-two p,
+.feature-three p {
+    text-align: left;
+    color: #112262;
+}
+
+.feature-two {
+    width: 26%;
+    float: left;
+    margin-left: 5%;
+    padding: 50px 30px;
+    background-color: #EAF9F4;
+}
+
+.feature-two img {
+    width: 100%;
+}
+
+.feature-three {
+    width: 26%;
+    float: right;
+    padding: 50px 30px;
+    background-color: #FFF8E8;
+}
+
+footer {
+    background-color: #008AFF;
+    padding: 40px 0;
+}
+
+footer p {
+    color: #54a4e6;
+    font-size: 18px;
+    text-align: center;
+}
+
+footer p span {
+    font-size: 20px;
+    color: #ffff;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
